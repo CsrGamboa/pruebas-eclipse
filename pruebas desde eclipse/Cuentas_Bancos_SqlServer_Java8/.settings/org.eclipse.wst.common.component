@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="Cuentas_Bancos_SqlServer_Java8">
+        <wb-resource deploy-path="/" source-path="/WebContent_ContenctDirectory" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="Cuentas_Bancos_SqlServer_Java8_ContextRoot"/>
+        <property name="java-output-path" value="/Cuentas_Bancos_SqlServer_Java8/build/classes"/>
+    </wb-module>
+</project-modules>
